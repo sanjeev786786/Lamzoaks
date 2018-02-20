@@ -1,0 +1,2 @@
+# Lamzoaks
+Wordpress
