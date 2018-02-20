@@ -1,0 +1,2431 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: listingpro-plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-06 01:20+0500\n"
+"POT-Revision-Date: Tue Mar 08 2016 16:05:54 GMT+0500 (Pakistan Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: cland <cland@gmail.com>\n"
+"Language-Team: Cridio <sam@cridio.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:574 inc/claims.php:201 shortcodes/checkout.php:15
+#: shortcodes/edit.php:16 shortcodes/pricing.php:14 shortcodes/submit.php:17
+#: vc_special_elements.php:563 vc_special_elements.php:2688
+msgid "Title"
+msgstr ""
+
+#: functions.php:575
+msgid "Listing Category"
+msgstr ""
+
+#: functions.php:576 plugin.php:330 plugin.php:331 shortcodes/pricing.php:392
+#: shortcodes/pricing.php:841
+msgid "Location"
+msgstr ""
+
+#: functions.php:577 inc/metaboxes/category-meta.php:38
+msgid "Features"
+msgstr ""
+
+#: functions.php:578
+msgid "Expire After"
+msgstr ""
+
+#: functions.php:579
+msgid "Payment Status"
+msgstr ""
+
+#: functions.php:580 inc/claims.php:202 inc/lp-reports/listings-reports.php:84
+#: inc/lp-reports/reviews-reports.php:93 inc/metaboxes/post-options.php:118
+msgid "Author"
+msgstr ""
+
+#: functions.php:581 inc/claims.php:204 inc/invoices.php:217 inc/invoices.php:276
+#: inc/invoices.php:326 inc/invoices.php:401 inc/invoices.php:459
+#: inc/invoices.php:509 inc/invoices.php:589 inc/invoices.php:651
+#: inc/invoices.php:711
+msgid "Date"
+msgstr ""
+
+#: functions.php:627 functions.php:631 functions.php:636
+msgid " Days Left"
+msgstr ""
+
+#: functions.php:635
+msgid "Unlimited"
+msgstr ""
+
+#: functions.php:739
+msgid "Select your listing features"
+msgstr ""
+
+#: functions.php:807 functions.php:822 shortcodes/edit.php:791
+msgid "Additional Business Info"
+msgstr ""
+
+#: functions.php:1087
+msgid "Verify your purchase code to unlock all features, see "
+msgstr ""
+
+#: functions.php:1087
+msgid "instructions"
+msgstr ""
+
+#: functions.php:1106
+msgid "Valid License Key!"
+msgstr ""
+
+#: functions.php:1108
+msgid "Invalid license key"
+msgstr ""
+
+#: functions.php:1228
+#, php-format
+msgid "Show All %s"
+msgstr ""
+
+#: inc/BFI_Thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of these "
+"libraries are required for WordPress to be able to resize images. Please contact "
+"your server administrator to enable this before continuing."
+msgstr ""
+
+#: inc/BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: inc/claims.php:7
+msgctxt "post type general name"
+msgid "Claims"
+msgstr ""
+
+#: inc/claims.php:8
+msgctxt "post type singular name"
+msgid "Claim"
+msgstr ""
+
+#: inc/claims.php:9
+msgctxt "admin menu"
+msgid "Claims"
+msgstr ""
+
+#: inc/claims.php:10
+msgctxt "add new on admin bar"
+msgid "Claim"
+msgstr ""
+
+#: inc/claims.php:11
+msgctxt "review"
+msgid "Add New"
+msgstr ""
+
+#: inc/claims.php:12
+msgid "Add New Claim"
+msgstr ""
+
+#: inc/claims.php:13
+msgid "New Claim"
+msgstr ""
+
+#: inc/claims.php:14
+msgid "Edit Claim"
+msgstr ""
+
+#: inc/claims.php:15
+msgid "View Claim"
+msgstr ""
+
+#: inc/claims.php:16
+msgid "All Claims"
+msgstr ""
+
+#: inc/claims.php:17
+msgid "Search Claims"
+msgstr ""
+
+#: inc/claims.php:18
+msgid "Parent Claims:"
+msgstr ""
+
+#: inc/claims.php:19
+msgid "No reviews found."
+msgstr ""
+
+#: inc/claims.php:20
+msgid "No reviews found in Trash."
+msgstr ""
+
+#: inc/claims.php:26
+msgid "Description."
+msgstr ""
+
+#: inc/claims.php:203 inc/metaboxes/post-options.php:123
+msgid "Status"
+msgstr ""
+
+#: inc/field-types.php:83 inc/field-types.php:113 inc/metaboxes/metaboxes.php:287
+#: inc/metaboxes/metaboxes.php:319
+msgid "Yes"
+msgstr ""
+
+#: inc/field-types.php:111
+msgid "No"
+msgstr ""
+
+#: inc/field-types.php:369
+msgid "Select Option"
+msgstr ""
+
+#: inc/frontend-media.php:53
+msgid "Select File"
+msgstr ""
+
+#: inc/frontend-media.php:57
+msgid "Please Login To Upload"
+msgstr ""
+
+#: inc/invoices-ads.php:44
+msgid " Random Ads "
+msgstr ""
+
+#: inc/invoices-ads.php:47
+msgid " Detail Page Ads "
+msgstr ""
+
+#: inc/invoices-ads.php:50
+msgid " Top in Search Page Ads "
+msgstr ""
+
+#: inc/invoices-ads.php:146
+msgid "Ads Invoices"
+msgstr ""
+
+#: inc/invoices-ads.php:148 inc/invoices.php:171
+msgid "Paypal"
+msgstr ""
+
+#: inc/invoices-ads.php:149 inc/invoices.php:172
+msgid "Stripe"
+msgstr ""
+
+#: inc/invoices-ads.php:150 inc/invoices.php:173
+msgid "Wire"
+msgstr ""
+
+#: inc/invoices-ads.php:159 inc/invoices-ads.php:354 inc/invoices-ads.php:549
+#: inc/invoices.php:185 inc/invoices.php:370 inc/invoices.php:556
+#: vc_special_elements.php:777
+msgid "Success"
+msgstr ""
+
+#: inc/invoices-ads.php:163 inc/invoices-ads.php:358 inc/invoices-ads.php:553
+#: inc/invoices.php:188 inc/invoices.php:373 inc/invoices.php:559
+msgid "Pending"
+msgstr ""
+
+#: inc/invoices-ads.php:167 inc/invoices-ads.php:362 inc/invoices-ads.php:557
+#: inc/invoices.php:191 inc/invoices.php:376 inc/invoices.php:562
+#: vc_special_elements.php:778
+msgid "Failed"
+msgstr ""
+
+#: inc/invoices-ads.php:191 inc/invoices-ads.php:253 inc/invoices-ads.php:306
+#: inc/invoices-ads.php:386 inc/invoices-ads.php:448 inc/invoices-ads.php:502
+#: inc/invoices-ads.php:581 inc/invoices-ads.php:643 inc/invoices-ads.php:706
+#: inc/invoices.php:212 inc/invoices.php:271 inc/invoices.php:321
+#: inc/invoices.php:396 inc/invoices.php:454 inc/invoices.php:504
+#: inc/invoices.php:584 inc/invoices.php:646 inc/invoices.php:706
+#: inc/subscriptions.php:94
+msgid "No."
+msgstr ""
+
+#: inc/invoices-ads.php:192 inc/invoices-ads.php:254 inc/invoices-ads.php:307
+#: inc/invoices-ads.php:387 inc/invoices-ads.php:449 inc/invoices-ads.php:503
+#: inc/invoices-ads.php:582 inc/invoices-ads.php:644 inc/invoices-ads.php:707
+#: inc/invoices.php:213 inc/invoices.php:272 inc/invoices.php:322
+#: inc/invoices.php:397 inc/invoices.php:455 inc/invoices.php:505
+#: inc/invoices.php:585 inc/invoices.php:647 inc/invoices.php:707
+#: inc/subscriptions.php:95
+msgid "User"
+msgstr ""
+
+#: inc/invoices-ads.php:193 inc/invoices-ads.php:255 inc/invoices-ads.php:308
+#: inc/invoices-ads.php:388 inc/invoices-ads.php:450 inc/invoices-ads.php:504
+#: inc/invoices-ads.php:583 inc/invoices-ads.php:645 inc/invoices-ads.php:708
+msgid "Post"
+msgstr ""
+
+#: inc/invoices-ads.php:194 inc/invoices-ads.php:256 inc/invoices-ads.php:309
+#: inc/invoices-ads.php:389 inc/invoices-ads.php:451 inc/invoices-ads.php:505
+#: inc/invoices-ads.php:584 inc/invoices-ads.php:646 inc/invoices-ads.php:709
+#: inc/invoices.php:216 inc/invoices.php:275 inc/invoices.php:325
+#: inc/invoices.php:400 inc/invoices.php:458 inc/invoices.php:508
+#: inc/invoices.php:588 inc/invoices.php:650 inc/invoices.php:710
+#: inc/subscriptions.php:97
+msgid "Price"
+msgstr ""
+
+#: inc/invoices-ads.php:195 inc/invoices-ads.php:257 inc/invoices-ads.php:310
+#: inc/invoices-ads.php:390 inc/invoices-ads.php:452 inc/invoices-ads.php:506
+#: inc/invoices-ads.php:585 inc/invoices-ads.php:647 inc/invoices-ads.php:710
+msgid "Transaction ID"
+msgstr ""
+
+#: inc/invoices-ads.php:196 inc/invoices-ads.php:391 inc/invoices-ads.php:586
+#: inc/invoices-ads.php:648 inc/invoices.php:219 inc/invoices.php:403
+#: inc/invoices.php:653 inc/lp-reports/listings-reports.php:86
+#: inc/lp-reports/reviews-reports.php:95 inc/subscriptions.php:99
+msgid "Action"
+msgstr ""
+
+#: inc/invoices-ads.php:216 inc/invoices-ads.php:410 inc/invoices-ads.php:605
+#: inc/invoices.php:240 inc/invoices.php:423 inc/invoices.php:591
+#: inc/invoices.php:614
+msgid "Delete"
+msgstr ""
+
+#: inc/invoices-ads.php:230 inc/invoices-ads.php:425 inc/invoices-ads.php:620
+msgid "Sorry! You have no successful invoice"
+msgstr ""
+
+#: inc/invoices-ads.php:284 inc/invoices-ads.php:479 inc/invoices-ads.php:683
+msgid "Sorry! You have no pending invoice"
+msgstr ""
+
+#: inc/invoices-ads.php:338 inc/invoices-ads.php:533 inc/invoices-ads.php:737
+msgid "Sorry! You have no failed invoice"
+msgstr ""
+
+#: inc/invoices.php:143 inc/invoices.php:168
+msgid "Listings Invoices"
+msgstr ""
+
+#: inc/invoices.php:214 inc/invoices.php:273 inc/invoices.php:323
+#: inc/invoices.php:398 inc/invoices.php:456 inc/invoices.php:506
+#: inc/invoices.php:586 inc/invoices.php:648 inc/invoices.php:708
+msgid "Order#"
+msgstr ""
+
+#: inc/invoices.php:215 inc/invoices.php:274 inc/invoices.php:324
+#: inc/invoices.php:399 inc/invoices.php:457 inc/invoices.php:507
+#: inc/invoices.php:587 inc/invoices.php:649 inc/invoices.php:709
+msgid "Plan"
+msgstr ""
+
+#: inc/invoices.php:218 inc/invoices.php:277 inc/invoices.php:327
+#: inc/invoices.php:402 inc/invoices.php:460 inc/invoices.php:510
+#: inc/invoices.php:590 inc/invoices.php:652 inc/invoices.php:712
+msgid "Days"
+msgstr ""
+
+#: inc/invoices.php:252 inc/invoices.php:302 inc/invoices.php:352
+#: inc/invoices.php:435 inc/invoices.php:485 inc/invoices.php:535
+#: inc/invoices.php:626 inc/invoices.php:686 inc/invoices.php:737
+msgid "Nothing in the list"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:58
+msgid "Listing Reports"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:83
+msgid "Listing Title"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:85 inc/lp-reports/reviews-reports.php:94
+msgid "Reported For"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:91 inc/lp-reports/reviews-reports.php:100
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:98 inc/lp-reports/reviews-reports.php:107
+msgid "Time"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:100 inc/lp-reports/reviews-reports.php:109
+msgid "Confirm"
+msgstr ""
+
+#: inc/lp-reports/listings-reports.php:115 inc/lp-reports/reviews-reports.php:124
+msgid "Sorry! There is no report found"
+msgstr ""
+
+#: inc/lp-reports/reports.php:8
+msgid "Flags"
+msgstr ""
+
+#: inc/lp-reports/reviews-reports.php:66
+msgid "Reviews Reports"
+msgstr ""
+
+#: inc/lp-reports/reviews-reports.php:92
+msgid "Review Title"
+msgstr ""
+
+#: inc/metaboxes-plans.php:18
+msgid "Select Package Type"
+msgstr ""
+
+#: inc/metaboxes-plans.php:36 inc/metaboxes-plans.php:41 inc/metaboxes-plans.php:48
+#: shortcodes/pricing.php:476 shortcodes/pricing.php:911
+msgid "Package"
+msgstr ""
+
+#: inc/metaboxes-plans.php:37 inc/metaboxes-plans.php:42 inc/metaboxes-plans.php:47
+msgid "Pay Per Listing"
+msgstr ""
+
+#: inc/metaboxes-plans.php:80
+msgid "Enter no. of post in the package"
+msgstr ""
+
+#: inc/metaboxes-plans.php:91
+msgid "Total Posts in Package"
+msgstr ""
+
+#: inc/metaboxes-plans.php:119
+msgid "Select color for the title background box"
+msgstr ""
+
+#: inc/metaboxes-plans.php:156
+msgid ""
+"Price (Do not use currency sign)(Empty field will be considered as free plan. Free "
+"plan option only works in \"Pay per Listing\" )"
+msgstr ""
+
+#: inc/metaboxes-plans.php:196
+msgid "Duration( in days )"
+msgstr ""
+
+#: inc/metaboxes-plans.php:236
+msgid "Continue free plan after expire"
+msgstr ""
+
+#: inc/metaboxes-plans.php:279
+msgid "Hot Plan"
+msgstr ""
+
+#: inc/metaboxes-plans.php:329
+msgid "Ad Posting options"
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:8
+msgid "Category Icon"
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:12
+msgid "Icon For Archive and Search Page"
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:16
+msgid "Icon On Banner"
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:20
+msgid "Icon For Home Page Banner"
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:24
+msgid "Category Banner "
+msgstr ""
+
+#: inc/metaboxes/category-meta.php:31
+msgid "Category Banner ID "
+msgstr ""
+
+#: inc/metaboxes/features-meta.php:8
+msgid "Feature icon"
+msgstr ""
+
+#: inc/metaboxes/location-meta.php:7
+msgid "Location Image"
+msgstr ""
+
+#: inc/metaboxes/location-meta.php:14
+msgid "Location Image ID "
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:47 inc/metaboxes/metaboxes.php:60
+#: inc/metaboxes/metaboxes.php:68 templates/hours-form.php:72
+#: templates/hours-form.php:83 templates/hours-form.php:97
+#: templates/hours-form.php:136 templates/hours-form.php:145
+#: templates/hours-form.php:154 templates/hours-form.php:163
+#: templates/hours-form.php:172 templates/hours-form.php:302
+msgid "Remove"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:47
+msgid "+ Add More"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:97
+msgid "Quick questions"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:193
+msgid "Add Your Business Hours."
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:211 shortcodes/edit.php:904 shortcodes/submit.php:632
+msgid "Answer"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:220
+msgid "FAQ helps to understand."
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:236
+msgid "+ Add New"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:258 shortcodes/edit.php:915 shortcodes/edit.php:959
+msgid "FAQ 1"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:478
+msgid "Insert image"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:708
+msgid "Current : "
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:721
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:721
+msgid "Upload Images"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:756
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:759
+msgid "Default"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:782
+msgid "Your Location"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:71 inc/metaboxes/post-options.php:79
+msgid "Add Banner"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:87 inc/metaboxes/post-options.php:562
+#: inc/vc_mods/vc_mods.php:143
+msgid "Background Image"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:93
+msgid "Add More"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:104
+msgid "Select Listing for Claim"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:111
+msgid "Claimed by"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:130
+msgid "Claimer Details"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:137
+msgid "Claimer Phone"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:153
+msgid "Select Listing"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:162
+msgid "Ad type"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:170
+msgid "Launched Date"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:177
+msgid "Ad Expiry Date"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:191
+msgid "Gallery"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:197
+msgid "Rating"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:210
+msgid "Assigned to Listing"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:218
+msgid "Reply"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:226
+msgid "Interesting"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:232
+msgid "LOL"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:238
+msgid "Love"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:244 inc/metaboxes/post-options.php:440
+msgid "Reported By"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:250 inc/metaboxes/post-options.php:447
+msgid "Reported Count"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:261
+msgid "Business Tagline Text"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:267
+msgid "Google Address"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:272 shortcodes/edit.php:592
+#: shortcodes/submit.php:434
+msgid "Latitude"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:277 shortcodes/edit.php:596
+#: shortcodes/submit.php:438
+msgid "Longitude"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:283
+msgid "Map Pin"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:289 shortcodes/edit.php:610 templates/popup.php:106
+msgid "Phone"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:294 shortcodes/submit.php:790
+#: templates/popup.php:100
+msgid "Email"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:299 shortcodes/edit.php:618
+#: shortcodes/pricing.php:399 shortcodes/pricing.php:848
+msgid "Website"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:304 shortcodes/edit.php:988
+#: shortcodes/submit.php:656
+msgid "Twitter"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:309 shortcodes/edit.php:995
+#: shortcodes/submit.php:663
+msgid "Facebook"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:314 shortcodes/edit.php:1002
+#: shortcodes/submit.php:670
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:319 shortcodes/edit.php:1009
+#: shortcodes/submit.php:677
+msgid "Google Plus"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:324
+msgid "Youtube Channel Link"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:327
+msgid "Your Youtube Channel URL as social link"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:330
+msgid "Instagram Profile Link"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:333
+msgid "Your Instagram Profile URL as social link"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:336
+msgid "Youtube Video URL"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:339
+msgid "Any specific Youtube Video? You want to share on business page"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:343 shortcodes/pricing.php:369
+#: shortcodes/pricing.php:819 vc_special_elements.php:2119
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:346
+msgid "Select images to present your buisness online."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:349
+msgid "Show Price Status"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:360
+msgid "It will show your business price range"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:364 shortcodes/submit.php:593
+msgid "Price From"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:367 inc/metaboxes/post-options.php:373
+msgid "Ignore this if your buisness does not have any specific price to show"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:370 shortcodes/edit.php:855
+#: shortcodes/submit.php:600
+msgid "Price To"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:377
+msgid "Plans"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:381
+msgid "Ignore this if this post will not be a paid one"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:384
+msgid "Reviews"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:389
+msgid "Verify Listing"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:398
+msgid "Approve claim at claim section this will override complete claim system"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:403
+msgid "Ad Purchased on"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:410
+msgid "Ad Purchased Packages"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:416
+msgid "Faq"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:421
+msgid "Timings"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:424
+msgid "Set Your business time details"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:427
+msgid "Copmain ID"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:433
+msgid "Changed Plan ID"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:460
+msgid "Field Type"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:465
+msgid "Text"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:474
+msgid "Checkbox"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:475
+msgid "Checkbox (Switch On/Off)"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:476
+msgid "Multicheck"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:477
+msgid "Radio"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:478
+msgid "Drop-Down"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:483
+msgid "Radio Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:491
+msgid "Select Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:499
+msgid "Multicheck Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:507
+msgid "Exclusive from Categories"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:514
+msgid "Select category for this field"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:539
+msgid "listing settings"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:540
+msgid "Additional Setting"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:542
+msgid "Details About Claim"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:545
+msgid "Ad Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:550 inc/metaboxes/post-options.php:555
+msgid "Page Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:559
+msgid "Post Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:570
+msgid "Custom Form Fields"
+msgstr ""
+
+#: inc/metaboxes/post-type.php:14
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: inc/metaboxes/post-type.php:15
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: inc/metaboxes/post-type.php:16
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: inc/metaboxes/post-type.php:17
+msgid "Saving..."
+msgstr ""
+
+#: inc/register_new_status.php:5
+msgctxt "listingpro-plugin"
+msgid "Expired"
+msgstr ""
+
+#: inc/register_new_status.php:9
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/register_reported_status.php:5
+msgctxt "listingpro-plugin"
+msgid "Reported"
+msgstr ""
+
+#: inc/register_reported_status.php:9
+#, php-format
+msgid "Reported <span class=\"count\">(%s)</span>"
+msgid_plural "Reported <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/submit-ajax.php:414
+msgid "Email already exists"
+msgstr ""
+
+#: inc/submit-ajax.php:723
+msgid "Invalid username or password"
+msgstr ""
+
+#: inc/submit-ajax.php:1292
+msgid "Please check captcha"
+msgstr ""
+
+#: inc/subscriptions.php:59
+msgid "Subscriptions"
+msgstr ""
+
+#: inc/subscriptions.php:87
+msgid "Users Subscriptions"
+msgstr ""
+
+#: inc/subscriptions.php:96
+msgid "Subscription"
+msgstr ""
+
+#: inc/subscriptions.php:98
+msgid "Upcoming renewal"
+msgstr ""
+
+#: inc/subscriptions.php:127
+msgid "exc. tax"
+msgstr ""
+
+#: inc/subscriptions.php:132
+msgid "inc. tax"
+msgstr ""
+
+#: inc/subscriptions.php:145
+msgid "Unsubscribe"
+msgstr ""
+
+#: inc/subscriptions.php:145
+msgid "Are you sure you want to proceed action?"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:73
+msgid "Row ID"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:76
+msgid ""
+"Put your row ID here. This can then be used to target the row with CSS or as an "
+"anchor point to scroll to when the relevant link is clicked."
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:82
+msgid "Row Title"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:85
+msgid "Put here row title"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:91
+msgid "Row description"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:94
+msgid "Put here row description"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:100
+msgid "Title Color"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:109
+msgid "Description Color"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:118
+msgid "Row Type"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:121
+msgid "Center Content"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:122
+msgid "Full Width - Center Content"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:130
+msgid "Background Color"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:152
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:155
+msgid "No Repeat"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:156
+msgid "Repeat"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:162
+msgid "Background Parallax"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:165
+msgid "Not Parallax"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:166
+msgid "Parallax"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:174
+msgid "Extra Class Name"
+msgstr ""
+
+#: inc/vc_mods/vc_mods.php:177
+msgid "This can then be used to target the row with CSS."
+msgstr ""
+
+#: plugin.php:96
+msgctxt "post type general name"
+msgid "Pricing Plans"
+msgstr ""
+
+#: plugin.php:97
+msgctxt "post type singular name"
+msgid "Price Plans"
+msgstr ""
+
+#: plugin.php:98
+msgctxt "book"
+msgid "Add New Price Plan"
+msgstr ""
+
+#: plugin.php:99
+msgid "Add New Price Plan"
+msgstr ""
+
+#: plugin.php:100
+msgid "Edit Price Plan"
+msgstr ""
+
+#: plugin.php:101
+msgid "New Price Plan"
+msgstr ""
+
+#: plugin.php:102
+msgid "View Price Plan"
+msgstr ""
+
+#: plugin.php:103
+msgid "Search Price Plans"
+msgstr ""
+
+#: plugin.php:104
+msgid "No Price Plan found"
+msgstr ""
+
+#: plugin.php:105
+msgid "No Price Plans found in Trash"
+msgstr ""
+
+#: plugin.php:142
+msgctxt "post type general name"
+msgid "Listings"
+msgstr ""
+
+#: plugin.php:143
+msgctxt "post type singular name"
+msgid "Listing"
+msgstr ""
+
+#: plugin.php:144
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: plugin.php:145
+msgid "Add New List"
+msgstr ""
+
+#: plugin.php:146
+msgid "Edit List"
+msgstr ""
+
+#: plugin.php:147
+msgid "New Listing"
+msgstr ""
+
+#: plugin.php:148
+msgid "View List"
+msgstr ""
+
+#: plugin.php:149
+msgid "Search Listing"
+msgstr ""
+
+#: plugin.php:150
+msgid "No List found"
+msgstr ""
+
+#: plugin.php:151
+msgid "No List found in Trash"
+msgstr ""
+
+#: plugin.php:177
+msgctxt "post type general name"
+msgid "Form Fields"
+msgstr ""
+
+#: plugin.php:178
+msgctxt "post type singular name"
+msgid "Field"
+msgstr ""
+
+#: plugin.php:179
+msgctxt "book"
+msgid "Add New Field"
+msgstr ""
+
+#: plugin.php:180
+msgid "Add New Field"
+msgstr ""
+
+#: plugin.php:181
+msgid "Edit Field"
+msgstr ""
+
+#: plugin.php:182
+msgid "New Field"
+msgstr ""
+
+#: plugin.php:183
+msgid "View Field"
+msgstr ""
+
+#: plugin.php:184
+msgid "Search Fields"
+msgstr ""
+
+#: plugin.php:185
+msgid "No Field found"
+msgstr ""
+
+#: plugin.php:186
+msgid "No Field found in Trash"
+msgstr ""
+
+#: plugin.php:332
+msgid "Search Locations"
+msgstr ""
+
+#: plugin.php:333
+msgid "Popular Locations"
+msgstr ""
+
+#: plugin.php:334
+msgid "All Locations"
+msgstr ""
+
+#: plugin.php:335
+msgid "Parent Location"
+msgstr ""
+
+#: plugin.php:336
+msgid "Parent Location:"
+msgstr ""
+
+#: plugin.php:337
+msgid "Edit Location"
+msgstr ""
+
+#: plugin.php:338
+msgid "Update Location"
+msgstr ""
+
+#: plugin.php:339
+msgid "Add New Location"
+msgstr ""
+
+#: plugin.php:340
+msgid "New Location Name"
+msgstr ""
+
+#: plugin.php:341
+msgid "Separate Locations with commas"
+msgstr ""
+
+#: plugin.php:342
+msgid "Add or remove Location"
+msgstr ""
+
+#: plugin.php:343
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: plugin.php:344 vc_special_elements.php:1152
+msgid "Locations"
+msgstr ""
+
+#: shortcodes/category-element.php:13
+msgid "Listing Categories"
+msgstr ""
+
+#: shortcodes/category-element.php:15 shortcodes/checkout.php:8 shortcodes/edit.php:9
+#: shortcodes/pricing.php:8 shortcodes/submit.php:10 vc_special_elements.php:22
+#: vc_special_elements.php:128 vc_special_elements.php:225
+#: vc_special_elements.php:291 vc_special_elements.php:420
+#: vc_special_elements.php:549 vc_special_elements.php:626
+#: vc_special_elements.php:754 vc_special_elements.php:895
+#: vc_special_elements.php:1054 vc_special_elements.php:1154
+#: vc_special_elements.php:1476 vc_special_elements.php:1685
+#: vc_special_elements.php:1899 vc_special_elements.php:2121
+#: vc_special_elements.php:2225 vc_special_elements.php:2385
+#: vc_special_elements.php:2647 vc_special_elements.php:2679
+#: vc_special_elements.php:2783
+msgid "Listingpro"
+msgstr ""
+
+#: shortcodes/category-element.php:20 vc_special_elements.php:1160
+msgid "Category Styles"
+msgstr ""
+
+#: shortcodes/category-element.php:22
+msgid "Choose your Category style"
+msgstr ""
+
+#: shortcodes/category-element.php:24 vc_special_elements.php:1164
+msgid "Abstracted View"
+msgstr ""
+
+#: shortcodes/category-element.php:25 vc_special_elements.php:1165
+msgid "Boxed View"
+msgstr ""
+
+#: shortcodes/category-element.php:26
+msgid "Abstracted & Boxed View"
+msgstr ""
+
+#: shortcodes/category-element.php:27 vc_special_elements.php:1166
+#: vc_special_elements.php:1743 vc_special_elements.php:1910
+msgid "Grid View"
+msgstr ""
+
+#: shortcodes/category-element.php:35 shortcodes/edit.php:647
+#: shortcodes/submit.php:491 vc_special_elements.php:1718
+msgid "Select Category"
+msgstr ""
+
+#: shortcodes/category-element.php:37 vc_special_elements.php:1175
+msgid "Check the checkbox"
+msgstr ""
+
+#: shortcodes/category-element.php:199 shortcodes/category-element.php:241
+#: shortcodes/category-element.php:304 vc_special_elements.php:1248
+#: vc_special_elements.php:1342 vc_special_elements.php:1396
+#: vc_special_elements.php:1449
+msgid "Listings"
+msgstr ""
+
+#: shortcodes/checkout.php:6
+msgid "Listing Checkout"
+msgstr ""
+
+#: shortcodes/checkout.php:22
+msgid "Bank Transfer Image"
+msgstr ""
+
+#: shortcodes/checkout.php:30
+msgid "Stripe Image"
+msgstr ""
+
+#: shortcodes/checkout.php:39
+msgid "Paypal Image"
+msgstr ""
+
+#: shortcodes/checkout.php:47
+msgid "2 Checkout Image"
+msgstr ""
+
+#: shortcodes/checkout.php:151
+msgid "Sorry! Currently Free mode is activated"
+msgstr ""
+
+#: shortcodes/checkout.php:184
+msgid "Proceed to Next"
+msgstr ""
+
+#: shortcodes/checkout.php:204
+msgid "Sorry! Please select listing and payment method to complete the process"
+msgstr ""
+
+#: shortcodes/checkout.php:236
+msgid "Purchase"
+msgstr ""
+
+#: shortcodes/edit.php:7
+msgid "Edit Listing"
+msgstr ""
+
+#: shortcodes/edit.php:22 shortcodes/pricing.php:20 shortcodes/submit.php:23
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/edit.php:237 shortcodes/submit.php:157
+msgid "You are currently signed in as"
+msgstr ""
+
+#: shortcodes/edit.php:237 shortcodes/submit.php:157
+msgid "Sign out"
+msgstr ""
+
+#: shortcodes/edit.php:237 shortcodes/submit.php:157
+msgid "or continue below and start submission."
+msgstr ""
+
+#: shortcodes/edit.php:298
+msgid "Update & Preview"
+msgstr ""
+
+#: shortcodes/edit.php:320 shortcodes/submit.php:267
+msgid "Put your listing title here and tell the name of your business to the world."
+msgstr ""
+
+#: shortcodes/edit.php:328 shortcodes/submit.php:273
+msgid "Tagline Example: Best Express Mexican Grill"
+msgstr ""
+
+#: shortcodes/edit.php:353 shortcodes/edit.php:469 shortcodes/submit.php:298
+#: shortcodes/submit.php:322 shortcodes/submit.php:343
+msgid "The city name will help users find you in search filters."
+msgstr ""
+
+#: shortcodes/edit.php:366 shortcodes/edit.php:455 shortcodes/submit.php:304
+#: shortcodes/submit.php:328 shortcodes/submit.php:349 shortcodes/submit.php:352
+msgid "select your listing region"
+msgstr ""
+
+#: shortcodes/edit.php:474 shortcodes/edit.php:476
+msgid "Select your listing region"
+msgstr ""
+
+#: shortcodes/edit.php:478 vc_special_elements.php:1705
+msgid "Select Location"
+msgstr ""
+
+#: shortcodes/edit.php:568 shortcodes/submit.php:411
+msgid "Search By Google"
+msgstr ""
+
+#: shortcodes/edit.php:569 shortcodes/submit.php:412
+msgid "Manual Coordinates"
+msgstr ""
+
+#: shortcodes/edit.php:572 shortcodes/submit.php:415
+msgid "Drop Pin"
+msgstr ""
+
+#: shortcodes/edit.php:582 shortcodes/submit.php:424
+msgid ""
+"Start typing and select your google location from google suggestions. This is for "
+"the map and also for locating your business."
+msgstr ""
+
+#: shortcodes/edit.php:586
+msgid "Your address for google map"
+msgstr ""
+
+#: shortcodes/edit.php:589 shortcodes/submit.php:431
+msgid "Add address here"
+msgstr ""
+
+#: shortcodes/edit.php:611
+msgid "Your contact number"
+msgstr ""
+
+#: shortcodes/edit.php:619
+msgid "Your web URL"
+msgstr ""
+
+#: shortcodes/edit.php:641 shortcodes/edit.php:645
+msgid "Choose one categories"
+msgstr ""
+
+#: shortcodes/edit.php:808 shortcodes/submit.php:580
+msgid "Not to say"
+msgstr ""
+
+#: shortcodes/edit.php:809 shortcodes/submit.php:581
+msgid "Inexpensive"
+msgstr ""
+
+#: shortcodes/edit.php:810 shortcodes/submit.php:582
+msgid "Moderate"
+msgstr ""
+
+#: shortcodes/edit.php:811 shortcodes/submit.php:583
+msgid "Pricey"
+msgstr ""
+
+#: shortcodes/edit.php:812 shortcodes/submit.php:584
+msgid "Ultra High"
+msgstr ""
+
+#: shortcodes/edit.php:848
+msgid "Only Digits"
+msgstr ""
+
+#: shortcodes/edit.php:901
+msgid "Questions"
+msgstr ""
+
+#: shortcodes/edit.php:989 shortcodes/submit.php:657
+msgid "Your Twitter URL"
+msgstr ""
+
+#: shortcodes/edit.php:996 shortcodes/submit.php:664
+msgid "Your Facebook URL"
+msgstr ""
+
+#: shortcodes/edit.php:1003 shortcodes/submit.php:671
+msgid "Your LinkedIn URL"
+msgstr ""
+
+#: shortcodes/edit.php:1010 shortcodes/submit.php:678
+msgid "Your Google Plus URL"
+msgstr ""
+
+#: shortcodes/edit.php:1016 shortcodes/submit.php:684
+msgid "Youtube"
+msgstr ""
+
+#: shortcodes/edit.php:1017 shortcodes/submit.php:685
+msgid "Your Youtube URL"
+msgstr ""
+
+#: shortcodes/edit.php:1023 shortcodes/submit.php:691
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/edit.php:1024 shortcodes/submit.php:692
+msgid "Your Instagram URL"
+msgstr ""
+
+#: shortcodes/edit.php:1038 shortcodes/submit.php:706
+msgid ""
+"These keywords or tags will help your listing to find in search. Add a comma "
+"separated list of keywords related to your business."
+msgstr ""
+
+#: shortcodes/edit.php:1041 shortcodes/submit.php:709
+msgid "Enter tags or keywords comma separated..."
+msgstr ""
+
+#: shortcodes/edit.php:1065
+msgid "Video "
+msgstr ""
+
+#: shortcodes/edit.php:1065 shortcodes/submit.php:726
+msgid "(Optional)"
+msgstr ""
+
+#: shortcodes/edit.php:1066 shortcodes/submit.php:727
+msgid "ex: https://youtu.be/lY2yjAdbvdQ"
+msgstr ""
+
+#: shortcodes/edit.php:1075 shortcodes/submit.php:736
+msgid "Images "
+msgstr ""
+
+#: shortcodes/edit.php:1082 shortcodes/submit.php:743
+msgid "Drag&Drop files here"
+msgstr ""
+
+#: shortcodes/edit.php:1083
+msgid "Or"
+msgstr ""
+
+#: shortcodes/edit.php:1085 shortcodes/submit.php:746
+msgid "Browse Files"
+msgstr ""
+
+#: shortcodes/edit.php:1124 shortcodes/submit.php:758
+msgid "Upload Feature Image"
+msgstr ""
+
+#: shortcodes/edit.php:1128 shortcodes/submit.php:762
+msgid "Browse"
+msgstr ""
+
+#: shortcodes/edit.php:1128 shortcodes/submit.php:762
+msgid "Choose a file"
+msgstr ""
+
+#: shortcodes/edit.php:1155 shortcodes/submit.php:787
+msgid "your contact email"
+msgstr ""
+
+#: shortcodes/edit.php:1175 shortcodes/submit.php:835
+msgid "Click below to review your listing."
+msgstr ""
+
+#: shortcodes/edit.php:1182 shortcodes/submit.php:839
+msgid "Something is missing! Please fill out all fields highlighted in red."
+msgstr ""
+
+#: shortcodes/pricing.php:6
+msgid "Pricing Plans"
+msgstr ""
+
+#: shortcodes/pricing.php:27
+msgid "Pricing plans views"
+msgstr ""
+
+#: shortcodes/pricing.php:30
+msgid "Horizontal View"
+msgstr ""
+
+#: shortcodes/pricing.php:31
+msgid "Vertical View"
+msgstr ""
+
+#: shortcodes/pricing.php:108 shortcodes/pricing.php:317
+msgid "unlimited"
+msgstr ""
+
+#: shortcodes/pricing.php:202 shortcodes/pricing.php:624
+msgid "Per Listing"
+msgstr ""
+
+#: shortcodes/pricing.php:205 shortcodes/pricing.php:627
+msgid "Per Package"
+msgstr ""
+
+#: shortcodes/pricing.php:221 shortcodes/pricing.php:244
+msgid "Per Package "
+msgstr ""
+
+#: shortcodes/pricing.php:225 shortcodes/pricing.php:247
+msgid "Per Listing "
+msgstr ""
+
+#: shortcodes/pricing.php:293 shortcodes/pricing.php:746
+msgid "Free"
+msgstr ""
+
+#: shortcodes/pricing.php:303 shortcodes/pricing.php:306 shortcodes/pricing.php:777
+#: shortcodes/pricing.php:780
+msgid "Duration"
+msgstr ""
+
+#: shortcodes/pricing.php:303 shortcodes/pricing.php:777
+msgid "days"
+msgstr ""
+
+#: shortcodes/pricing.php:307 shortcodes/pricing.php:781
+msgid " : Unlimited days"
+msgstr ""
+
+#: shortcodes/pricing.php:313 shortcodes/pricing.php:318
+msgid "Total Listings : "
+msgstr ""
+
+#: shortcodes/pricing.php:323
+msgid "Available Listings : "
+msgstr ""
+
+#: shortcodes/pricing.php:330
+msgid " Used :"
+msgstr ""
+
+#: shortcodes/pricing.php:353 shortcodes/pricing.php:804
+msgid "Map Display"
+msgstr ""
+
+#: shortcodes/pricing.php:361 shortcodes/pricing.php:811
+msgid "Contact Display"
+msgstr ""
+
+#: shortcodes/pricing.php:377 shortcodes/pricing.php:827
+msgid "Video"
+msgstr ""
+
+#: shortcodes/pricing.php:385 shortcodes/pricing.php:834
+msgid "Business Tagline"
+msgstr ""
+
+#: shortcodes/pricing.php:406 shortcodes/pricing.php:857
+msgid "Social Links"
+msgstr ""
+
+#: shortcodes/pricing.php:414 shortcodes/pricing.php:865 shortcodes/submit.php:629
+msgid "FAQ"
+msgstr ""
+
+#: shortcodes/pricing.php:422 shortcodes/pricing.php:873
+msgid "Price Range"
+msgstr ""
+
+#: shortcodes/pricing.php:431 shortcodes/pricing.php:882
+msgid "Tags/Keywords"
+msgstr ""
+
+#: shortcodes/pricing.php:439 shortcodes/pricing.php:890
+msgid "Business Hours"
+msgstr ""
+
+#: shortcodes/pricing.php:469 shortcodes/pricing.php:472 shortcodes/pricing.php:481
+msgid "Get Started Now"
+msgstr ""
+
+#: shortcodes/pricing.php:476 shortcodes/pricing.php:911
+msgid " should have a price "
+msgstr ""
+
+#: shortcodes/pricing.php:493 shortcodes/pricing.php:941
+msgid "There is no Plan available right now."
+msgstr ""
+
+#: shortcodes/pricing.php:663
+msgid "Max. listings allowed : "
+msgstr ""
+
+#: shortcodes/pricing.php:692 shortcodes/pricing.php:703
+msgid "Active"
+msgstr ""
+
+#: shortcodes/pricing.php:755
+msgid "Remaining Listings : "
+msgstr ""
+
+#: shortcodes/pricing.php:766
+msgid "Hot"
+msgstr ""
+
+#: shortcodes/pricing.php:789
+msgid "Max. Listings : "
+msgstr ""
+
+#: shortcodes/pricing.php:796
+msgid "Max. Listings : Unlimited"
+msgstr ""
+
+#: shortcodes/pricing.php:917 shortcodes/pricing.php:920 shortcodes/pricing.php:925
+msgid "Continue"
+msgstr ""
+
+#: shortcodes/submit.php:8
+msgid "Submit Listing"
+msgstr ""
+
+#: shortcodes/submit.php:165
+msgid "Returning User? Please"
+msgstr ""
+
+#: shortcodes/submit.php:165
+msgid "Sign In"
+msgstr ""
+
+#: shortcodes/submit.php:165
+msgid "and if you are a "
+msgstr ""
+
+#: shortcodes/submit.php:165
+msgid "New User, continue below "
+msgstr ""
+
+#: shortcodes/submit.php:165
+msgid "and register along with this submission."
+msgstr ""
+
+#: shortcodes/submit.php:241
+msgid "Save & Preview"
+msgstr ""
+
+#: shortcodes/submit.php:270
+msgid "Staple & Fancy Hotel"
+msgstr ""
+
+#: shortcodes/submit.php:356
+msgid "Select City"
+msgstr ""
+
+#: shortcodes/submit.php:428
+msgid "Start typing and find your place in google map"
+msgstr ""
+
+#: shortcodes/submit.php:435
+msgid "40.7143528"
+msgstr ""
+
+#: shortcodes/submit.php:439
+msgid "-74.0059731"
+msgstr ""
+
+#: shortcodes/submit.php:454
+msgid "111-111-1234"
+msgstr ""
+
+#: shortcodes/submit.php:462
+msgid "http://"
+msgstr ""
+
+#: shortcodes/submit.php:486 shortcodes/submit.php:489
+msgid "Choose Your Business Category"
+msgstr ""
+
+#: shortcodes/submit.php:611
+msgid "Detail description about your listing"
+msgstr ""
+
+#: shortcodes/submit.php:744
+msgid "or"
+msgstr ""
+
+#: shortcodes/submit.php:791
+msgid "enter username"
+msgstr ""
+
+#: shortcodes/submit.php:792
+msgid "Password"
+msgstr ""
+
+#: shortcodes/submit.php:793
+msgid "enter password"
+msgstr ""
+
+#: shortcodes/submit.php:796
+msgid "Already Have Account?"
+msgstr ""
+
+#: shortcodes/submit.php:811
+msgid "I Agree"
+msgstr ""
+
+#: shortcodes/submit.php:815
+msgid "You agree you accept our Terms & Conditions for posting this ad."
+msgstr ""
+
+#: shortcodes/submit.php:836
+msgid "All of the fields were successfully validated!"
+msgstr ""
+
+#: templates/default-checkout.php:24 templates/quick-checkout.php:37
+msgid "SELECT A LISTING"
+msgstr ""
+
+#: templates/default-checkout.php:47 templates/quick-checkout.php:41
+msgid "Recurring Payment?"
+msgstr ""
+
+#: templates/default-checkout.php:84 templates/quick-checkout.php:76
+msgid "Date:"
+msgstr ""
+
+#: templates/default-checkout.php:90 templates/quick-checkout.php:82
+msgid "Category:"
+msgstr ""
+
+#: templates/default-checkout.php:96 templates/quick-checkout.php:88
+msgid "Duration:"
+msgstr ""
+
+#: templates/default-checkout.php:97 templates/quick-checkout.php:89
+msgid " Days"
+msgstr ""
+
+#: templates/default-checkout.php:104 templates/default-checkout.php:108
+#: templates/default-checkout.php:113 templates/quick-checkout.php:96
+#: templates/quick-checkout.php:100 templates/quick-checkout.php:105
+msgid "Price:"
+msgstr ""
+
+#: templates/default-checkout.php:138
+msgid "Sorry! You have no paid listings yet!"
+msgstr ""
+
+#: templates/hours-form.php:92 templates/hours-form.php:302
+msgid "24 hours open"
+msgstr ""
+
+#: templates/hours-form.php:132 templates/hours-form.php:137
+#: templates/hours-form.php:138 templates/hours-form.php:182
+msgid "Monday"
+msgstr ""
+
+#: templates/hours-form.php:141 templates/hours-form.php:146
+#: templates/hours-form.php:147 templates/hours-form.php:183
+msgid "Tuesday"
+msgstr ""
+
+#: templates/hours-form.php:150 templates/hours-form.php:155
+#: templates/hours-form.php:156 templates/hours-form.php:184
+msgid "Wednesday"
+msgstr ""
+
+#: templates/hours-form.php:159 templates/hours-form.php:164
+#: templates/hours-form.php:165 templates/hours-form.php:185
+msgid "Thursday"
+msgstr ""
+
+#: templates/hours-form.php:168 templates/hours-form.php:173
+#: templates/hours-form.php:174 templates/hours-form.php:186
+msgid "Friday"
+msgstr ""
+
+#: templates/hours-form.php:187
+msgid "Saturday"
+msgstr ""
+
+#: templates/hours-form.php:188
+msgid "Sunday"
+msgstr ""
+
+#: templates/hours-form.php:193 templates/hours-form.php:245
+#: templates/hours-form.php:316 templates/hours-form.php:368
+msgid "midnight"
+msgstr ""
+
+#: templates/hours-form.php:217 templates/hours-form.php:269
+#: templates/hours-form.php:340 templates/hours-form.php:392
+msgid "noon"
+msgstr ""
+
+#: templates/hours-form.php:300
+msgid "24 Hours"
+msgstr ""
+
+#: templates/hours-form.php:302
+msgid "Sorry"
+msgstr ""
+
+#: templates/hours-form.php:302
+msgid "Already Added"
+msgstr ""
+
+#: templates/hours-form.php:302
+msgid "+"
+msgstr ""
+
+#: templates/hours-form.php:310
+msgid "Add 2nd time slot?"
+msgstr ""
+
+#: templates/payment-methods.php:29
+msgid "SELECT A GATEWAY"
+msgstr ""
+
+#: templates/payment-methods.php:126
+msgid "Sorry! You have not enable any payment method"
+msgstr ""
+
+#: templates/popup.php:6
+msgid "Sorry! Your request failed"
+msgstr ""
+
+#: templates/popup.php:52
+msgid "2Checkout"
+msgstr ""
+
+#: templates/popup.php:68
+msgid "Card Number"
+msgstr ""
+
+#: templates/popup.php:74
+msgid "CVC"
+msgstr ""
+
+#: templates/popup.php:82
+msgid "Expiration Date (MM/YYYY)"
+msgstr ""
+
+#: templates/popup.php:96
+msgid "Name"
+msgstr ""
+
+#: templates/popup.php:110
+msgid "Address"
+msgstr ""
+
+#: templates/popup.php:115
+msgid "City"
+msgstr ""
+
+#: templates/popup.php:119
+msgid "State"
+msgstr ""
+
+#: templates/popup.php:125
+msgid "Country"
+msgstr ""
+
+#: templates/popup.php:129
+msgid "Zip"
+msgstr ""
+
+#: templates/popup.php:136
+msgid "Proceed"
+msgstr ""
+
+#: templates/popup.php:143
+msgid "Close"
+msgstr ""
+
+#: templates/tax.php:20
+msgid "Item"
+msgstr ""
+
+#: templates/tax.php:21
+msgid "Total"
+msgstr ""
+
+#: templates/tax.php:45
+msgid "Tax "
+msgstr ""
+
+#: templates/tax.php:66
+msgid "Subtotal"
+msgstr ""
+
+#: vc_special_elements.php:20
+msgid "ListingPro Columns Element"
+msgstr ""
+
+#: vc_special_elements.php:28
+msgid "Column Left Image"
+msgstr ""
+
+#: vc_special_elements.php:36
+msgid "First Column Title"
+msgstr ""
+
+#: vc_special_elements.php:42
+msgid "First Column Description"
+msgstr ""
+
+#: vc_special_elements.php:49
+msgid "Second Column Title"
+msgstr ""
+
+#: vc_special_elements.php:55
+msgid "Second Column Description"
+msgstr ""
+
+#: vc_special_elements.php:62
+msgid "Third Column Title"
+msgstr ""
+
+#: vc_special_elements.php:68
+msgid "Third Column Description"
+msgstr ""
+
+#: vc_special_elements.php:126
+msgid "Listingpro Promotional Element"
+msgstr ""
+
+#: vc_special_elements.php:134 vc_special_elements.php:231
+msgid "Banner Left Image"
+msgstr ""
+
+#: vc_special_elements.php:142 vc_special_elements.php:239
+msgid "Element Title"
+msgstr ""
+
+#: vc_special_elements.php:148 vc_special_elements.php:245
+msgid "Element Description"
+msgstr ""
+
+#: vc_special_elements.php:154
+msgid "Element Link Title"
+msgstr ""
+
+#: vc_special_elements.php:156
+msgid "Add Link Title"
+msgstr ""
+
+#: vc_special_elements.php:162
+msgid "Element Link URL"
+msgstr ""
+
+#: vc_special_elements.php:164
+msgid "Add URL here"
+msgstr ""
+
+#: vc_special_elements.php:170
+msgid "Element Phone Number"
+msgstr ""
+
+#: vc_special_elements.php:223
+msgid "Listingpro Promotional Services"
+msgstr ""
+
+#: vc_special_elements.php:289
+msgid "Listingpro Promotional Timeline"
+msgstr ""
+
+#: vc_special_elements.php:297
+msgid "Timeline Title"
+msgstr ""
+
+#: vc_special_elements.php:304
+msgid "Timeline Short Description"
+msgstr ""
+
+#: vc_special_elements.php:311
+msgid "Timeline First Title"
+msgstr ""
+
+#: vc_special_elements.php:317
+msgid "Timeline First Description"
+msgstr ""
+
+#: vc_special_elements.php:324
+msgid "Timeline Right Image"
+msgstr ""
+
+#: vc_special_elements.php:332
+msgid "Timeline Second Title"
+msgstr ""
+
+#: vc_special_elements.php:338
+msgid "Timeline Second Description"
+msgstr ""
+
+#: vc_special_elements.php:345
+msgid "Timeline Left Image"
+msgstr ""
+
+#: vc_special_elements.php:418
+msgid "Listingpro Promotional Presentaion"
+msgstr ""
+
+#: vc_special_elements.php:426
+msgid "Presentaion Title"
+msgstr ""
+
+#: vc_special_elements.php:433
+msgid "Presentaion Short Description"
+msgstr ""
+
+#: vc_special_elements.php:440
+msgid "Presentaion First Title"
+msgstr ""
+
+#: vc_special_elements.php:446
+msgid "Presentaion First Designation"
+msgstr ""
+
+#: vc_special_elements.php:453
+msgid "Presentaion First Image"
+msgstr ""
+
+#: vc_special_elements.php:461
+msgid "Presentaion Second Title"
+msgstr ""
+
+#: vc_special_elements.php:467
+msgid "Presentaion Second Designation"
+msgstr ""
+
+#: vc_special_elements.php:474
+msgid "Presentaion Left Image"
+msgstr ""
+
+#: vc_special_elements.php:547
+msgid "Listingpro Promotional Support"
+msgstr ""
+
+#: vc_special_elements.php:555
+msgid "Support Background Image"
+msgstr ""
+
+#: vc_special_elements.php:570 vc_special_elements.php:1093
+msgid "Designation"
+msgstr ""
+
+#: vc_special_elements.php:577
+msgid "Description"
+msgstr ""
+
+#: vc_special_elements.php:624
+msgid "Listingpro Call to Action"
+msgstr ""
+
+#: vc_special_elements.php:632
+msgid "Select Listingpro Call to Action Style"
+msgstr ""
+
+#: vc_special_elements.php:635
+msgid "Call to Action with Button "
+msgstr ""
+
+#: vc_special_elements.php:636
+msgid "Call to Action without Button "
+msgstr ""
+
+#: vc_special_elements.php:645
+msgid "Call to Action Title"
+msgstr ""
+
+#: vc_special_elements.php:652
+msgid "Short Description"
+msgstr ""
+
+#: vc_special_elements.php:659
+msgid "Button Text"
+msgstr ""
+
+#: vc_special_elements.php:670
+msgid "Button Link"
+msgstr ""
+
+#: vc_special_elements.php:681
+msgid "Phone Number"
+msgstr ""
+
+#: vc_special_elements.php:752
+msgid "Listingpro Notification"
+msgstr ""
+
+#: vc_special_elements.php:760
+msgid "Notification Image"
+msgstr ""
+
+#: vc_special_elements.php:767
+msgid "Notification Title"
+msgstr ""
+
+#: vc_special_elements.php:774
+msgid "Select Notice"
+msgstr ""
+
+#: vc_special_elements.php:786
+msgid "Success Description"
+msgstr ""
+
+#: vc_special_elements.php:792 vc_special_elements.php:828
+msgid ""
+"An email receipt with detials about your order has been sent to email address "
+"provided.please keep it for your record"
+msgstr ""
+
+#: vc_special_elements.php:797
+msgid "Icon with description"
+msgstr ""
+
+#: vc_special_elements.php:808
+msgid "Notification Description"
+msgstr ""
+
+#: vc_special_elements.php:814
+msgid "Redirect to Page"
+msgstr ""
+
+#: vc_special_elements.php:877
+msgid "Home"
+msgstr ""
+
+#: vc_special_elements.php:893
+msgid "Listing Entries"
+msgstr ""
+
+#: vc_special_elements.php:901 vc_special_elements.php:1935
+msgid "Posts per page"
+msgstr ""
+
+#: vc_special_elements.php:904 vc_special_elements.php:1938
+msgid "3 Posts"
+msgstr ""
+
+#: vc_special_elements.php:905 vc_special_elements.php:1939
+msgid "6 Posts"
+msgstr ""
+
+#: vc_special_elements.php:906 vc_special_elements.php:1940
+msgid "9 Posts"
+msgstr ""
+
+#: vc_special_elements.php:907 vc_special_elements.php:1941
+msgid "12 Posts"
+msgstr ""
+
+#: vc_special_elements.php:908 vc_special_elements.php:1942
+msgid "15 Posts"
+msgstr ""
+
+#: vc_special_elements.php:969 vc_special_elements.php:975
+msgid "https://placeholdit.imgix.net/~text?txtsize=33&w=372&h=240"
+msgstr ""
+
+#: vc_special_elements.php:1052
+msgid "Client Testimonial"
+msgstr ""
+
+#: vc_special_elements.php:1060
+msgid "Testimonial Style"
+msgstr ""
+
+#: vc_special_elements.php:1062
+msgid "Choose your testimonial style"
+msgstr ""
+
+#: vc_special_elements.php:1065
+msgid "Default, on a white background color"
+msgstr ""
+
+#: vc_special_elements.php:1066
+msgid "Inverted, on a dark background color"
+msgstr ""
+
+#: vc_special_elements.php:1072
+msgid "Client Name"
+msgstr ""
+
+#: vc_special_elements.php:1079
+msgid "Client Avatar"
+msgstr ""
+
+#: vc_special_elements.php:1086 vc_special_elements.php:2283
+msgid "Testimonial Content"
+msgstr ""
+
+#: vc_special_elements.php:1095
+msgid "Add designation"
+msgstr ""
+
+#: vc_special_elements.php:1162
+msgid "Choose your Listing style"
+msgstr ""
+
+#: vc_special_elements.php:1173
+msgid "Select location"
+msgstr ""
+
+#: vc_special_elements.php:1180
+msgid "Order"
+msgstr ""
+
+#: vc_special_elements.php:1182
+msgid "Order of locations"
+msgstr ""
+
+#: vc_special_elements.php:1185
+msgid "ASC"
+msgstr ""
+
+#: vc_special_elements.php:1186
+msgid "DESC"
+msgstr ""
+
+#: vc_special_elements.php:1474
+msgid "Feature Box"
+msgstr ""
+
+#: vc_special_elements.php:1483 vc_special_elements.php:1517
+msgid "Feature Image"
+msgstr ""
+
+#: vc_special_elements.php:1486
+msgid "Style 1"
+msgstr ""
+
+#: vc_special_elements.php:1487
+msgid "Style 2"
+msgstr ""
+
+#: vc_special_elements.php:1526
+msgid "Description about this element"
+msgstr ""
+
+#: vc_special_elements.php:1535
+msgid "Button Link (1)"
+msgstr ""
+
+#: vc_special_elements.php:1544
+msgid "Button BG Image (1)"
+msgstr ""
+
+#: vc_special_elements.php:1554
+msgid "Button Link (2)"
+msgstr ""
+
+#: vc_special_elements.php:1562
+msgid "Button BG Image (2)"
+msgstr ""
+
+#: vc_special_elements.php:1683
+msgid "Listing By"
+msgstr ""
+
+#: vc_special_elements.php:1691
+msgid "Listing Options"
+msgstr ""
+
+#: vc_special_elements.php:1694
+msgid "By Category"
+msgstr ""
+
+#: vc_special_elements.php:1695
+msgid "By Location"
+msgstr ""
+
+#: vc_special_elements.php:1696
+msgid "By Location and Category"
+msgstr ""
+
+#: vc_special_elements.php:1697
+msgid "Recent"
+msgstr ""
+
+#: vc_special_elements.php:1731
+msgid "Listing per page"
+msgstr ""
+
+#: vc_special_elements.php:1739 vc_special_elements.php:1906
+msgid "Listing Layout"
+msgstr ""
+
+#: vc_special_elements.php:1742 vc_special_elements.php:1909
+msgid "List View"
+msgstr ""
+
+#: vc_special_elements.php:1897
+msgid "Listing Posts"
+msgstr ""
+
+#: vc_special_elements.php:1918
+msgid "Styles"
+msgstr ""
+
+#: vc_special_elements.php:1921
+msgid "Grid Styel 1"
+msgstr ""
+
+#: vc_special_elements.php:1922
+msgid "Grid Styel 2"
+msgstr ""
+
+#: vc_special_elements.php:2129
+msgid "Image for gallery"
+msgstr ""
+
+#: vc_special_elements.php:2223
+msgid "Video Testimonials"
+msgstr ""
+
+#: vc_special_elements.php:2233
+msgid "Video preview Image"
+msgstr ""
+
+#: vc_special_elements.php:2242
+msgid "Video URL"
+msgstr ""
+
+#: vc_special_elements.php:2251
+msgid "Testimonial Title"
+msgstr ""
+
+#: vc_special_elements.php:2259
+msgid "Author name"
+msgstr ""
+
+#: vc_special_elements.php:2267
+msgid "Author Company"
+msgstr ""
+
+#: vc_special_elements.php:2275
+msgid "Author Avatar"
+msgstr ""
+
+#: vc_special_elements.php:2376
+msgid "All Categories"
+msgstr ""
+
+#: vc_special_elements.php:2383
+msgid "Blog Grids"
+msgstr ""
+
+#: vc_special_elements.php:2391
+msgid "Select Blog Element Style"
+msgstr ""
+
+#: vc_special_elements.php:2394
+msgid "Blog Grid "
+msgstr ""
+
+#: vc_special_elements.php:2395
+msgid "Blog Masnory "
+msgstr ""
+
+#: vc_special_elements.php:2578 vc_special_elements.php:2622
+msgid "Read More"
+msgstr ""
+
+#: vc_special_elements.php:2645
+msgid "content boxes"
+msgstr ""
+
+#: vc_special_elements.php:2677
+msgid "Single Content Box"
+msgstr ""
+
+#: vc_special_elements.php:2696 vc_special_elements.php:2704
+msgid "Content"
+msgstr ""
+
+#: vc_special_elements.php:2751
+msgid "listingpro Partners"
+msgstr ""
+
+#: vc_special_elements.php:2781
+msgid "Single Partner Logo"
+msgstr ""
+
+#: vc_special_elements.php:2791
+msgid "Partner logo "
+msgstr ""
+
+#: vc_special_elements.php:2799
+msgid "Logo Url"
+msgstr ""
